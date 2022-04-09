@@ -1,14 +1,15 @@
 <resources>
     <string name="app_name">Cadastro de Endereço</string>
     <string name="cadastro_de_endere_o">Cadastro de Endereço</string>
-    <string name="nome">Nome</string>
-    <string name="telefone">Telefone</string>
-    <string name="cep">CEP</string>
-    <string name="logradouro">Logradouro</string>
-    <string name="n_mero">Número</string>
+    <string name="nome">Nome*</string>
+    <string name="telefone">Telefone*</string>
+    <string name="cep">CEP*</string>
+    <string name="logradouro">Logradouro*</string>
+    <string name="n_mero">Número*</string>
     <string name="complemento">Complemento</string>
     <string name="bairro">Bairro</string>
     <string name="cidade">Cidade</string>
     <string name="estado">Estado</string>
     <string name="salvar">Salvar</string>
+    <string name="campo_obrigat_rio">* Campo obrigatório</string>
 </resources>
